@@ -5,10 +5,10 @@
 - 🌱 Estudando Java e JavaScript
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=herickaquino1&&theme=radical" />
+  <img height=200 width = 430 src="https://github-readme-stats.vercel.app/api?username=herickaquino1&&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width = 400 src="https://github-readme-stats.vercel.app/api/top-langs?username=herickaquino1&&layout=donut&&theme=radical" />
+  <img height=200 width = 300 src="https://github-readme-stats.vercel.app/api/top-langs?username=herickaquino1&&layout=donut&&theme=radical" />
 </a>
 
 ##
